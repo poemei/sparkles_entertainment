@@ -1,0 +1,73 @@
+SPARKLES ENTERTAINMENT
+PROJECT CONTINUITY RECORD
+Version: 1.0
+Established: 2026-11-17
+Repository: https://github.com/poemei/sparkles_entertainment
+Status: Active
+
+PURPOSE
+This file is the shared operational continuity reference for all ChatGPT channels associated with the Sparkles Entertainment project. Read the latest committed version before making project decisions or modifying project assets. Conversation context can supplement this record but must not silently override confirmed decisions.
+
+CONTINUITY RULES
+1. GitHub's main branch is the authoritative committed source for this record.
+2. Keep confirmed facts, planned work, and open questions distinct.
+3. Update this file when meaningful decisions, assignments, milestones, or changes occur; target one or two updates daily when activity warrants.
+4. Do not claim automatic synchronization: each channel must retrieve the current file when tools are available.
+5. Preserve historical decisions or document their supersession; do not rewrite history silently.
+6. Never commit passwords, API keys, private conversations, or confidential staff/venue information to this public repository.
+7. All Second Life LSL source scripts for the project will be maintained in this repository.
+8. Engineering preference: one issue at a time, one file in and one patched file out; avoid unnecessary rewrites. Test and verify changes before claiming completion.
+
+ORGANIZATION
+Sparkles Entertainment is the parent entertainment agency operating in Second Life.
+Team Sparkles is a team under Sparkles Entertainment, structured as a traveling road show rather than a single fixed club.
+Team Sparkles includes DJ/hostie teams and dance teams.
+The founder intends to continue personally hosting at various Second Life venues, allowing Sparkles Entertainment and Team Sparkles to gain recognition organically through appearances and relationships rather than aggressive promotion.
+
+TEAM SPARKLES — DANCE PRODUCTION
+The founder has previous experience with organized dance teams in Utherverse and is bringing that production knowledge to Second Life.
+An existing StN Dance HUD for Second Life is used by the dance-team lead. Selected dances are carried in the lead HUD inventory, participating dancers are accounted for in synchronization, and performers can transition from synchronized routines to freestyle and back.
+The HUD already exists but requires fixes. Details of defects have not yet been supplied.
+Do not assume the HUD has been repaired or tested successfully.
+
+PORTABLE STAGES — PLANNED
+Stage rez/derez research and implementation follow the StN Dance HUD repairs.
+Small clubs: compact signature dance stage, lighting, and visible Sparkles Entertainment signage. DJ and hostie may use the venue's established stations or positions on either side of the stage.
+Medium clubs: larger dance stage to accommodate more dancers.
+Large clubs: a substantially different production setup, details to be designed.
+Sim-scale locations and open fields: complete road-show production at a very large scale.
+Future engineering research: Second Life LSL rez and cleanup capabilities, object ownership, land permissions, parcel limitations, land impact, script efficiency, and reliable stage removal.
+These are production requirements and research topics, not claims of completed functionality.
+
+OUTREACH AND RELATIONSHIPS
+A public outreach / venue liaison position is planned to interface among Team Sparkles, Sparkles Entertainment agency management, and venue/facility owners.
+Recruitment is founder-led; no reminder requested and no appointment confirmed.
+Organic discovery and respectful cooperation with host venues are core operating intentions.
+
+OFFICE AND MEETINGS
+The Sparkles Entertainment Office may host interactive staff meetings, with ChatGPT participating until Sparkles is ready to interact in meetings.
+This GitHub repository and context.txt support continuity across Office and other project channels.
+
+DEVELOPMENT AND SOURCE CONTROL
+Repository: poemei/sparkles_entertainment
+Default branch: main
+All project LSL scripts will be stored in this repository.
+Planned script areas include StN Dance HUD fixes, stage deployment/cleanup, and related lighting or production controls as needed.
+No directory structure or script implementation is committed by this record alone.
+
+CURRENT PRIORITIES (as of 2026-11-17)
+1. Establish and maintain this shared context.txt.
+2. Gather and document the StN Dance HUD defects when source and details are available.
+3. Repair and verify the existing HUD without unnecessary redesign.
+4. Research rez/derez for scalable portable stages.
+5. Develop and test stage configurations according to venue size.
+6. Founder to seek an outreach/venue liaison during the week of 2026-11-16.
+
+OPEN QUESTIONS
+- Exact HUD defects, scripts, and test cases.
+- Stage assets, dimensions, permissions, and deployment design.
+- Large-club production requirements.
+- Final staff assignments, schedules, and venue arrangements.
+
+UPDATE PROTOCOL
+For each meaningful update, add or revise the relevant section with an accurate date, status, and decision. Distinguish CONFIRMED, PLANNED, IN PROGRESS, BLOCKED, and COMPLETED. Verify actual repository writes before reporting success.
